@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "1A3685302D34D119D37584CFB260BDB8C6F7C583",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "71A9BF37CAEAF81DA08D1695C8B2659BEE662CC0" : 0,
+    "1A3685302D34D119D37584CFB260BDB8C6F7C583" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "CFB71061-D499-4590-A77E-77C3D1E44412",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "71A9BF37CAEAF81DA08D1695C8B2659BEE662CC0" : "",
+    "1A3685302D34D119D37584CFB260BDB8C6F7C583" : "this-button-is-epoch-ios-0616\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "EpochButton",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "EpochButton.xcworkspace",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "github.com:davidvypark\/this-button-is-epoch-ios-0616.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "1A3685302D34D119D37584CFB260BDB8C6F7C583"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "github.com:davidvypark\/objc-dictionary-ice-cream-001",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "71A9BF37CAEAF81DA08D1695C8B2659BEE662CC0"
+    }
+  ]
+}
